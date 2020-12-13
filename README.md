@@ -1,4 +1,4 @@
 Page on construction
 ------
 - [Tor List](#) (Coming soon)
-- [ZeroNet List](https://zeronet.io) (WIP)
+- [ZeroNet List](https://github.com/CleanOnions/ZeroNet) (WIP)
